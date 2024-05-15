@@ -2,9 +2,23 @@
 Streamlit demo project for machine learning
 
 
-please have a look at the demos hosted below
+## Demos
 
-[multicollinearity demo](https://multicollinearity-demo.streamlit.app/)
+### 1. Multicollinearity Demo
+Explore the concept of multicollinearity and understand its impact on regression models.
 
-[Confidence interval demo](https://01-confidence-interval.streamlit.app/)
-[AUC-ROC curve demo](https://01-roc-confusion-matrix.streamlit.app/)
+[Multicollinearity demo](https://multicollinearity-demo.streamlit.app/)
+
+### 2. ROC and Confusion Matrix Demo
+Visualize the Receiver Operating Characteristic (ROC) curve and the Confusion Matrix to evaluate classification models.
+
+[ROC and Confusion matrix demo](https://01-roc-confusion-matrix.streamlit.app/)
+
+### 3. Confidence and Prediction Interval Demo
+Learn about confidence and prediction intervals and how they can be used to quantify uncertainty in predictions.
+
+[Confidence and Prediction interval demo](https://01-confidence-interval.streamlit.app/)
+
+
+
+
